@@ -1,15 +1,187 @@
-# 💫 About Me:
-- 🔭 I’m currently working on full-stack web apps, internal tools, warehouse/logistics dashboards, and AI automation systems<br>- 👯 I’m looking to collaborate on SaaS products, workflow systems, dashboards, AI integrations, and developer tools<br>- 🤝 I’m looking for help with open-source collaboration, cloud architecture, and scaling production systems<br>- 🌱 I’m currently learning advanced system design, agentic AI patterns, RAG workflows, and production-grade automation<br>- 💬 Ask me about Next.js, React, TypeScript, Node.js, Python, Firebase, Supabase, AI agents, automation, and internal tools<br>- ⚡ Fun fact: I’m trilingual (English, Hindi, Gujarati) and I love turning messy manual workflows into clean software
+<div align="center">
 
+# Harshil Lakhani
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=harshilLakhani22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=harshilLakhani22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshilLakhani22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Full stack developer who solves business problems
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshilLakhani22&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+I build web apps, internal tools and dashboards for companies that are still doing
+things by hand. Sometimes that means a whole product. Sometimes it means fixing one
+painful workflow.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Available on Upwork](https://img.shields.io/badge/Available_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019fb12307829706de)
+
+</div>
+
+<br/>
+
+## What I have built
+
+These are client projects, so the code is private. Here is what they do.
+
+<br/>
+
+### 🏭 3PL Operations Platform
+
+A complete internal platform for a fulfilment company. It brings seller operations, carrier
+investigations, customer support, warehouse attendance, credits and analytics into one place.
+Before it existed, the team worked out of a shared mailbox, a pile of spreadsheets and a
+whiteboard on the warehouse wall.
+
+**16 product pages, 97 backend routes, 5 workspaces, role aware access.**
+
+| Workspace | What it does |
+|:--|:--|
+| Global order search | Searches the fulfilment API centrally, so an operator does not need to know which seller owns an order before they start. Takes platform, remote, sequential or tracking references, and shows seller names instead of numeric codes. |
+| Queries and investigations | Guided intake, evidence upload, and a full case timeline. Unknown queries get their own queue. |
+| Support workspace | Folders, ticket list and the live conversation all on one screen. Platform tickets and Gmail arrive in the same inbox. You can search by email, order, tracking, invoice or ticket number. |
+| Credits | Register a shipment or seller credit straight from a ticket. The order lookup confirms who owns it, then writes an internal financial record. Includes an undo. |
+| Warehouse and workforce | Employee directory with live task and status, clock in and out, break tracking, and full shift history that admins can correct. |
+| Analytics | Investigations measured separately from support: open workload, backlog, created against completed, status breakdown, who closed what, and CSV export. |
+
+```mermaid
+flowchart TB
+    A[Gmail channel] --> D[Unified queue]
+    B[Platform tickets] --> D
+    C[Seller portal] --> D
+    D --> E{Routing and<br/>ownership lookup}
+    E --> F[Case record]
+    F --> G[Carrier email<br/>cancellable send]
+    F --> H[Credit registration<br/>internal ledger]
+    F --> I[Task assignment]
+    G -.carrier reply.-> D
+    F --> J[Analytics<br/>and CSV export]
+    F --> K[Audit trail<br/>who did what, when]
+
+    style E fill:#1f6feb,stroke:#1f6feb,color:#fff
+    style G fill:#d29922,stroke:#d29922,color:#fff
+    style H fill:#d29922,stroke:#d29922,color:#fff
+```
+
+A few decisions worth explaining. The client's fulfilment platform stays read only: credits write
+to an internal record and never change anything on their live account. Anything that moves money
+or changes state can be undone, and carrier emails go out through a send window you can still
+cancel. Analytics runs on Amsterdam day boundaries, because a working day for this client is a
+Dutch day and not UTC. Get that wrong and every daily number is quietly incorrect.
+
+<br/>
+
+### 📮 3PL Email Automation and Investigation Portal
+
+Built for a logistics operator in the Netherlands. When a parcel went missing or turned up damaged,
+someone had to collect the order details, work out which carrier to contact, write the email,
+attach the evidence, and then chase the reply somewhere else. About **90% of that manual email work
+is now gone**, and the system runs in daily operations.
+
+The portal lists shipped orders that can still be investigated, then walks the seller through a two
+step form. Validation rules change depending on the carrier, since they each ask for different
+things. Evidence files get uploaded in the same flow. The system writes the carrier email, sends it
+to the right address, and pulls carrier replies back into the same case thread instead of into
+someone's inbox. The interface is in Dutch, because the operations team is Dutch.
+
+<br/>
+
+### 📺 Warehouse Operations Dashboard
+
+Made for a screen on the warehouse wall rather than a desk. It shows who is working in which zone
+right now (pick and pack, replenishment, inbound, containers, returns), which tasks are open, and
+which ones are urgent. It refreshes every 10 seconds, so a supervisor can spot a bottleneck without
+walking over to ask.
+
+It also produces 9 different CSV and Excel exports for managers, including a multi sheet workbook
+with daily trends and a summary for each department.
+
+<br/>
+
+### 💬 AI Support Chat with Live Human Handoff
+
+Most support bots say "I don't know" and the customer gives up. This one answers only from the
+company's own documents, checks how confident it is, and when it is not sure, it pulls a human
+agent into the same chat. The customer never has to start again or repeat themselves.
+
+There are three parts: a chat widget you drop into any website, a backend that does the retrieval,
+and a live agent dashboard. Questions the bot could not answer go into their own queue, so the team
+can see exactly where their documentation is thin.
+
+<br/>
+
+### 🏗️ AI Property Feasibility Platform
+
+This one turns zoning PDFs into costed feasibility reports. It reads the documents and pulls out
+the constraints: plot area, setbacks, coverage limits, site conditions. Every value it extracts
+comes with the sentence it was taken from and a confidence score, and a person has to approve or
+reject it before it goes anywhere near the cost calculation.
+
+Approved constraints then feed into scored design concepts and a cost estimate that lists what it
+does not know, rather than hiding the gaps.
+
+<br/>
+
+### Also shipped
+
+| Project | What it does |
+|:--|:--|
+| SEO content platform | Replaced a content team copying and pasting across six brand websites. It generates content using live search data, sends it through human review, publishes structured JSON to GitHub, and translates into 12 languages. All from one screen. |
+| Website generation system | Generates complete niche websites, each with its own brand identity and multi section pages. Over 50 built, and each one deploys in under two minutes. |
+| AI media platform | Ten separate tools brought into one Python backend: image, video, caption, transcript, file conversion and document generation. Jobs run in the background with live progress. |
+| Link analytics SaaS | Trackable links with traffic reporting. Clicks by platform, device, country and city, engagement trends, and period comparison. Built on BigQuery. |
+
+<br/>
+
+## How I usually build things
+
+Most of my projects follow the same path.
+
+```mermaid
+flowchart LR
+    A[Manual workflow<br/>done by hand] --> B[Structured<br/>intake]
+    B --> C{AI or logic<br/>layer}
+    C -->|confident| D[Automated<br/>action]
+    C -->|not sure| E[Human<br/>checkpoint]
+    E --> D
+    D --> F[Dashboard<br/>and exports]
+    D --> G[Alerts and<br/>audit trail]
+
+    style C fill:#1f6feb,stroke:#1f6feb,color:#fff
+    style E fill:#d29922,stroke:#d29922,color:#fff
+    style A fill:#21262d,stroke:#484f58,color:#fff
+```
+
+The yellow step is the one most people skip. Confidence checks, review steps, undo buttons, and a
+record of who did what. In a real business a wrong answer delivered confidently costs more than a
+slow one, so I build systems that stop and ask instead of guessing.
+
+**Automate the routine. Clarify the exception. Keep the human in control.**
+
+<br/>
+
+## What I work with
+
+| | |
+|:--|:--|
+| **Languages** | TypeScript, JavaScript, Python, Dart |
+| **Frontend** | Next.js, React, Tailwind, Flutter |
+| **Backend** | Node.js, Express, Fastify, FastAPI |
+| **Databases** | PostgreSQL, MongoDB, Redis, Firestore, Supabase, BigQuery |
+| **AI** | OpenAI, Anthropic, Gemini, Vertex AI, LangChain, LangGraph, RAG |
+| **Automation** | n8n, Puppeteer, Playwright, BullMQ, Pub/Sub, WebSockets |
+| **Infrastructure** | Google Cloud, AWS, Docker, Cloudflare, Vercel, Firebase, GitHub Actions |
+
+<br/>
+
+## Public repos
+
+| Repo | What it is |
+|:--|:--|
+| [openclaw-whatsapp-ticket-bot](https://github.com/harshilLakhani22/openclaw-whatsapp-ticket-bot) | Watches WhatsApp groups for ticket listings, saves them to Firestore, and answers questions about them in plain English. Built with Baileys, Gemini and TypeScript. |
+| [Marketing-Agent](https://github.com/harshilLakhani22/Marketing-Agent) | Agent driven marketing workflows in Python. |
+
+<br/>
+
+<div align="center">
+
+**Open to freelance and contract work.**
+
+Surat, India. I work across European and US hours.
+English, Hindi, Gujarati.
+
+</div>
