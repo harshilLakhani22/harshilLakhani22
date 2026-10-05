@@ -2,11 +2,9 @@
 
 # Harshil Lakhani
 
-### Full stack developer who solves business problems
+### Full-Stack Developer & Business Process Automation Engineer building custom software, internal tools and AI-powered systems.
 
-I build web apps, internal tools and dashboards for companies that are still doing
-things by hand. Sometimes that means a whole product. Sometimes it means fixing one
-painful workflow.
+I build full-stack software and business process automation systems for companies with manual or disconnected operations.
 
 [![Available on Upwork](https://img.shields.io/badge/Available_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019fb12307829706de)
 
